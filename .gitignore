@@ -1,0 +1,15 @@
+!.idea/
+.idea/*
+!.idea/codeStyleSettings.xml
+!.idea/codeStyles/
+**target/
+*.iml
+*.log
+*.txt
+*.zip
+*.class
+.classpath
+.project
+.settings/
+.idea/
+target/
